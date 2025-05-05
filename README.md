@@ -1,6 +1,6 @@
 # Fake Yiban: 不一般的易班
 
-# [Start](https://just-it-o.github.io/yibanzhengshiban/)
+# [Start](https://just-it-o.github.io/yibanzhengshiban/src/app.vue)
 
 WARNING: This program is only used for demonstration and should not be abused. Use it at your own risk.
 
